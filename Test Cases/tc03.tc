@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc03</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4587d4a3-04cc-47ab-b255-d07572e5b410</testCaseGuid>
+   <variable>
+      <defaultValue>'John'</defaultValue>
+      <description></description>
+      <id>048bdf10-7dfe-479f-b7ee-8bf14a658bf3</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>
